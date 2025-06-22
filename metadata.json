@@ -1,0 +1,7 @@
+{
+  "name": "Copy of School Management System",
+  "description": "A comprehensive school management system with various modules including student, teacher, and attendance tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
